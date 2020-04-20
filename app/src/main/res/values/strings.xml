@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First Scrollview App</string>
+    <string name="title">Welcome to our App</string>
+    <string name="content">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. A et ex exercitationem expedita hic ipsum laudantium non reprehenderit sit veritatis? Beatae cum debitis dolore doloremque fugiat inventore modi mollitia quas?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum neque perspiciatis praesentium. Architecto consequatur dolorem, ea eius illum inventore iure magni obcaecati perspiciatis quaerat quis quod similique soluta sunt voluptatibus.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab aspernatur atque aut consequuntur corporis, deleniti earum hic id impedit iure labore nihil placeat. Delectus dicta libero repudiandae rerum voluptatem?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem doloremque illum libero possimus, quas quia reprehenderit voluptates. Aliquam, dicta minima molestiae nemo, obcaecati officiis quaerat quasi, reprehenderit rerum velit veritatis!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam architecto at blanditiis cumque dicta dolore dolores doloribus eaque enim fugit hic illo itaque nostrum quasi ratione repudiandae, tempore temporibus vitae.
+    </string>
+</resources>
